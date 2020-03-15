@@ -10,6 +10,9 @@ thumbnail:          "/img/Thumb.jpg"
 
 # Social Profiles
 
+# 블로그 disqus shortname
+disqus:
+  shortname: joong-kim
 
 # Build settings
 markdown:           kramdown
