@@ -7,7 +7,7 @@ feature: '/img/posts/02/thumbnail.jpg'
 background: '/img/posts/02/background.jpg'
 categories:
   - marketing
-  - data analysis
+  - data-analysis
 tags:
   - 마케팅
   - 엑셀
@@ -36,4 +36,4 @@ description: '내가 경험한 일을 통해 엑셀의 강점을 설명하고 �
 
 등이라고 할 수 있다.
 
-이후의 포스팅에서는 엑셀의 강점 중 데이터 분석 기능에 초점을 맞춰 엑셀이 가진 기능을 소개하려고 한다. 
+이후의 포스팅에서는 엑셀의 강점 중 데이터 분석 기능에 초점을 맞춰 엑셀이 가진 기능을 소개하려고 한다.
