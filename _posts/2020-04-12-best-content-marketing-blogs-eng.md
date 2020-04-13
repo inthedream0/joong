@@ -34,7 +34,7 @@ Intercom, which stands out in the global chatbot market, has achieved its brand 
 
 Cisco, a global market leader in network equipment and IT, features true customer examples that show how companies drive innovation in various areas, and ultimately campaigns enhance brand value and explain how Cisco connects the world. Cisco's blog, which is achieving both branding and market dominance, should be referred to by marketers interested in branding and product introductions.
 
-## 4. [Neit patel](https://neilpatel.com/blog/)
+## 4. [Neil patel](https://neilpatel.com/blog/)
 
 ![닐파텔이미지](/img/posts/05/04.jpg)
 
