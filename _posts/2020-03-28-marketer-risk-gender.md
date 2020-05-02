@@ -2,7 +2,7 @@
 layout: post
 permalink: /marketer-risk-gender/
 title: '마케터가 알아야 하는 리스크 관리_젠더감수성'
-date: 2020-03-22 03:56:00 +09:00
+date: 2020-03-28 03:56:00 +09:00
 feature: '/img/posts/03/thumbnail.jpg'
 background: '/img/posts/03/background.jpg'
 categories:
