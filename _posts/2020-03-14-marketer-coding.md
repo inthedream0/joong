@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /marketer-coding/
+content_id: 1
 title: '마케터가 코딩을 배운다고?!'
 date: 2020-03-14 10:30:00 +09:00
 feature: '/img/posts/01/thumbnail.jpg'

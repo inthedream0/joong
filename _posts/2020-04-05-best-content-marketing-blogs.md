@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /best-content-marketing-blogs/
+content_id: 6
 title: '해외 유명 컨텐츠 마케팅 블로그 소개'
 date: 2020-04-05 10:05:00 +09:00
 feature: '/img/posts/04/thumbnail.jpg'

@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /blog-personal-branding/
+content_id: 9
 title: '블로그가 개인 브랜딩에 좋은 이유'
 date: 2020-05-30 00:27:00 +09:00
 feature: '/img/posts/08/thumbnail.jpg'

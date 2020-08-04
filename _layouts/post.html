@@ -55,13 +55,9 @@ layout: default
 {% include disqus.html %}
 
   <script>
-    var postName = '{{ page.title }}' ;
-    gtag('event','보기',{
-    'event_category':'글보기' , 'event_label' : postName});
-  </script>
-
-  <script>
-     fbq('track', 'ViewContent', {
-    	 content_name: '{{ page.title }}'
-  	 });
+  dataLayer.push({
+  'event': 'viewArticle',
+  'content_name': '{{ page.title }}',
+  'content_ids': '{{ page.content_id }}'
+  });
   </script>

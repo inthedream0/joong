@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /naver-searchadvisor/
+content_id: 8
 title: '네이버 서치어드바이저로 검색엔진 최적화 확인하기'
 date: 2020-05-16 01:03:00 +09:00
 feature: '/img/posts/07/thumbnail.jpg'

@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /excel-data-analysis/
+content_id: 2
 title: '엑셀로 마케팅 데이터 분석하기(1)'
 date: 2020-03-14 10:56:00 +09:00
 feature: '/img/posts/02/thumbnail.jpg'

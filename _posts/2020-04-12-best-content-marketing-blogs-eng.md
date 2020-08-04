@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /best-content-marketing-blogs-eng/
+content_id: 7
 title: '5 Best B2B Marketing Blogs'
 date: 2020-04-12 19:00:00 +09:00
 feature: '/img/posts/05/thumbnail.jpg'
